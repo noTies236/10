@@ -1,0 +1,1 @@
+void myFirstTexture(unsigned int &texture, unsigned int& SecondTexture);
